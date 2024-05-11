@@ -1,0 +1,9 @@
+rootProject.name = 'senderapp'
+
+include 'sender-client-api'
+include 'sender-worker'
+
+include 'sender-miscellaneous:data'
+include 'sender-miscellaneous:store'
+
+
